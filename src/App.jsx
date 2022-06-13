@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <header className='header'>
-        <img src="./src/img/header-3.jpg" alt="" className='img-header'/>
+        
       </header>
       <h1 className='title'>Rick and Morty wiki</h1>
       {
