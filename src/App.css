@@ -14,6 +14,7 @@
     height: 300px;
     background-image: url(https://preview.redd.it/eg7w8d3e6rhz.png?auto=webp&s=9d807b0e0813ce702c80716e77038514253dc582);
     background-size: cover;
+    border-bottom: 2px solid #fff;
 }
 .title{
     font-family: 'Lobster', cursive;
@@ -117,6 +118,12 @@
 .resident-description-description{
     font-size: 13px;
     font-weight: 400;
+}
+.resident-status{
+    width: 20px;
+    height: 20px;
+    background-color: #b12a08;
+    border-radius: 50%;
 }
 
 @media (min-width: 600px){
